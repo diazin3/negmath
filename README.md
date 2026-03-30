@@ -1,0 +1,2 @@
+# negmath
+Negative Mathematics Playground
