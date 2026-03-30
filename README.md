@@ -2,8 +2,9 @@
 Negative Mathematics Playground
 
 ###### ------- WARNING - TAKE ALL THIS WITH A --H U G E-- GRAIN OF SALT -------#######
-###### ------ DISCLAIMER: THIS WORK IS ALMOST ENTIRELY AI GENERATED THROUGH MY GUIDANCE, CODE AND THEORECTIC BACKGROUND INCLUDED ------######
-###### ------ IM BUILDING THIS MORE OUT OF MERE CURIOSITY ------######
+###### ------- DISCLAIMER: THIS WORK IS ALMOST ENTIRELY AI GENERATED THROUGH MY GUIDANCE, CODE AND THEORECTIC BACKGROUND INCLUDED ------######
+###### ------- IM BUILDING THIS MORE OUT OF MERE CURIOSITY/FUN ------######
+###### ------- https://substack.com/@negmath for more of this "work" ($8/mo :p)
 
 # NegMath: Operator-Inversion Diagnostics for Complex Systems
 
